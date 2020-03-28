@@ -1,0 +1,19 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+#profilePic{
+  background-image: url(img/animal.gif);
+  background-repeat: no-repeat;
+  height: 400px;
+
+}
+#kitty{
+  background-image: url(img/kitty.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 400px;
+}
