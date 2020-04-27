@@ -1,13 +1,12 @@
-## Installation
+## An app to help you keep track of your pets doctor visits.
 
-1. Clone repo
-2. run `npm install`
+![img](kitty.gif)
 
-## Usage
+## Languages used
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+*HTML
+*CSS3
+*JavaScript
+*Node.js
+*Express
+*MongoDB
